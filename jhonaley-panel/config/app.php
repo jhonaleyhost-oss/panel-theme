@@ -8,7 +8,7 @@ return [
     */
 
     'version' => 'v3.1',
-    'author' => 'alxzy/alan',
+    'author' => 'Jhonaley Store',
     'theme_version' => '2.0',
     'protect_version' => '3.0',
     'expiration_version' => '3.0',
@@ -17,11 +17,11 @@ return [
     |--------------------------------------------------------------------------
     | Application Name (Hardcoded)
     |--------------------------------------------------------------------------
-    | Nama aplikasi dikunci menjadi 'alxzen'. Perubahan di .env tidak akan
+    | Nama aplikasi dikunci menjadi 'jhonaley-store'. Perubahan di .env tidak akan
     | berpengaruh pada nilai ini.
     */
 
-    'name' => 'alxzen',
+    'name' => 'jhonaley-store',
 
     /*
     |--------------------------------------------------------------------------
